@@ -6,7 +6,7 @@ Uma aplicação web desenvolvida para gerenciar o acesso de usuários através d
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em uma interface moderna e responsiva de **Sistema de Login**, desenvolvida para garantir uma experiência de usuário simples, fluida e intuitiva. 
+Este projeto consiste em uma interface moderna e responsiva de **Sistema de Login**, desenvolvida para garantir uma experiência de usuário simples, fluida e intuitiva.
 
 ### 🚀 Funcionalidades
 - [x] Interface limpa e responsiva (adaptada para desktop e mobile)
@@ -31,7 +31,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina o [Git](http
 ### 🔄 Passo a passo
 
 1. **Clone este repositório:**
-
+   ```bash
+   git clone [https://github.com/otaviomacedo2311x/login-system.git](https://github.com/otaviomacedo2311x/login-system.git)
 ---
 
 ## 👨‍💻 Autor
