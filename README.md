@@ -3,7 +3,7 @@
 Uma tela de login simples feita com HTML e CSS.
 
 ## 📸 Preview
-![Tela de login do projeto](imagem/print-tela-login)
+![Tela de login do projeto](img/print-tela-login)
 
 ## 🚀 Como ver o projeto
 1. Baixe ou clone o repositório
