@@ -1,9 +1,9 @@
 # 🔐 Tela de Login OM Tech
 
-Uma tela de login simples e responsiva feita com HTML e CSS.
+Uma tela de login simples feita com HTML e CSS.
 
 ## 📸 Preview
-![Tela de login do projeto](imagem/print-tela-login.png)
+![Tela de login do projeto](imagem/print-tela-login)
 
 ## 🚀 Como ver o projeto
 1. Baixe ou clone o repositório
@@ -17,6 +17,7 @@ Uma tela de login simples e responsiva feita com HTML e CSS.
 - Estrutura de formulário
 - Estilização com CSS
 - Centralização de elementos
+- Atributos Especiais no HTML
 
 ## 👤 Autor
-Seu Nome - [LinkedIn](https://www.linkedin.com/in/otaviomacedo23) | [GitHub](https://github.com/otaviomacedo2311x)
+Otávio Macêdo - [LinkedIn](https://www.linkedin.com/in/otaviomacedo23) | [GitHub](https://github.com/otaviomacedo2311x)
